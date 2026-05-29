@@ -1,8 +1,8 @@
 body {
   font-family: Arial, sans-serif;
   font-size: 13px;
+  font-family: Montserrat;
 }
-
 .title{
   font-size: 70px;
   font-weight: 400;
@@ -11,106 +11,84 @@ body {
   text-align: center;
   color: #515076;
 }
-
-
 .products_list{
   list-style-type: none;
-  margin: 50;
-  padding: 30;
+  margin: 0px;
+  padding: 0px;
   padding-left: 25px;
   width: 340px;
   height: 530px;
 }
 .background_color{
   background: #F7F7FA;
+  padding-bottom: 25px ;
+  padding-left: 25px;
+  padding-right: 0px;
+  padding-bottom:25px ;
 }
-
 .img{
   width: 290;
-height: 245;
-padding-left: 25px;
-padding-top: 25px;
-
-
-}
-
-.background{
-  margin-left: 0;
+  height: 245;
   padding-left: 0px;
+  padding-top: 25px;
+  margin-bottom: 10px;;
 }
 .for_what_skin {
   color: #A5A3B9;
-  font-size: 12;
-  font-weight: 400;
-  margin-top: 30;
-  margin-bottom: 5;
-  font-family: Montserrat;
-  width: 340px;
+  font-size: 13px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-transform: uppercase;
 }
-
 .product_description{
   color: #515076;
   font-size: 13px;
   line-height: 18px;
 }
-
 .product_name {
   color: #515076;
-  font-size: 20;
-  font-weight: 700;
+  font-size: 20px;
 }
-
 .product_description {
   color: #515076;
   font-size: 13px;
   line-height: 18px;
 }
-
 .compound {
   color:#515076;
   font-size: 13px;
   line-height: 18px;
 }
-
 .content{
   color:#515076;
   font-size: 13px;
   line-height: 20px;
   padding-left: 0px;
   padding-right: 30px;
-
-  
 }
-
 .what_vitamins {
-   color:#515076;
+  color:#515076;
   font-size: 13px;
   line-height: 20px;
 }
-
 .content_of_components{
-   color:#515076;
+  color:#515076;
   font-size: 13px;
   line-height: 20px;
 }
-
 .price{
-   color:#515076;
+  color:#515076;
   font-size: 20px;
   line-height: 24px;
   padding-left: 0px;
-  padding-right: 150px;
-
+  padding-right: 100px;
 }
-  
 .money{
-    color:#515076;
+  color:#515076;
   font-size: 20px;
   line-height: 24px;
 }
-
-.indent {
-    padding-left: 25px;
-    padding-right: 0px;
-    padding-bottom:25px ;
+.indent{
+  padding-inline-start: 15px;
 }
+
