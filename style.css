@@ -1,17 +1,16 @@
 body {
   font-family: Arial, sans-serif;
   font-size: 13px;
-  font-family: Montserrat;
+  color: #515076;
 }
-.title{
+.title {
   font-size: 70px;
   font-weight: 400;
   line-height: 78px;
   margin: 0;
   text-align: center;
-  color: #515076;
-}
-.products_list{
+ }
+.products_list {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
@@ -19,19 +18,19 @@ body {
   width: 340px;
   height: 530px;
 }
-.background_color{
+.card {
   background: #F7F7FA;
   padding-bottom: 25px ;
   padding-left: 25px;
   padding-right: 0px;
-  padding-bottom:25px ;
+  padding-bottom:25px;
 }
-.img{
-  width: 290;
-  height: 245;
+.img {
+  width: 290px;
+  height: 245px;
   padding-left: 0px;
   padding-top: 25px;
-  margin-bottom: 10px;;
+  margin-bottom: 10px;
 }
 .for_what_skin {
   color: #A5A3B9;
@@ -40,55 +39,42 @@ body {
   margin-bottom: 0px;
   text-transform: uppercase;
 }
-.product_description{
-  color: #515076;
+.product_description {
   font-size: 13px;
   line-height: 18px;
 }
 .product_name {
-  color: #515076;
   font-size: 20px;
 }
-.product_description {
-  color: #515076;
-  font-size: 13px;
-  line-height: 18px;
-}
 .compound {
-  color:#515076;
   font-size: 13px;
   line-height: 18px;
 }
-.content{
-  color:#515076;
+.content {
   font-size: 13px;
   line-height: 20px;
   padding-left: 0px;
   padding-right: 30px;
 }
 .what_vitamins {
-  color:#515076;
   font-size: 13px;
   line-height: 20px;
 }
-.content_of_components{
-  color:#515076;
+.content_of_components {
   font-size: 13px;
   line-height: 20px;
 }
-.price{
-  color:#515076;
+.price {
   font-size: 20px;
   line-height: 24px;
   padding-left: 0px;
   padding-right: 100px;
 }
-.money{
-  color:#515076;
+.money {
   font-size: 20px;
   line-height: 24px;
 }
-.indent{
+.indent {
   padding-inline-start: 15px;
 }
 
