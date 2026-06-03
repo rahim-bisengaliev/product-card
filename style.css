@@ -6,47 +6,31 @@ body {
 
 .title {
   font-size: 70px;
-  font-weight: 400;
+  font-weight: 400px;
   line-height: 78px;
-  margin: 0;
   text-align: center;
 }
 
-.products_list {
+.products-list {
   list-style-type: none;
-  margin: 0px;
-  padding: 0px;
   padding-left: 25px;
-  width: 340px;
-  height: 530px;
-}
+  }
 
 .card {
   background: #F7F7FA;
-  padding-bottom: 25px ;
+  padding: 25px ;
   padding-left: 25px;
-  padding-right: 0px;
-  padding-bottom:25px;
-}
-
-.img {
+  padding-right: 25px;
   width: 290px;
-  height: 245px;
-  padding-left: 0px;
-  padding-top: 25px;
-  margin-bottom: 10px;
+  min-height: 530px;
 }
 
 .for_what_skin {
   color: #A5A3B9;
-  font-size: 13px;
-  margin-top: 0px;
-  margin-bottom: 0px;
   text-transform: uppercase;
 }
 
 .product_description {
-  font-size: 13px;
   line-height: 18px;
 }
 
@@ -55,32 +39,26 @@ body {
 }
 
 .compound {
-  font-size: 13px;
   line-height: 18px;
 }
 
 .content {
-  font-size: 13px;
   line-height: 20px;
-  padding-left: 0px;
   padding-right: 30px;
 }
 
 .what_vitamins {
-  font-size: 13px;
   line-height: 20px;
 }
 
 .content_of_components {
-  font-size: 13px;
   line-height: 20px;
 }
 
 .price {
   font-size: 20px;
   line-height: 24px;
-  padding-left: 0px;
-  padding-right: 100px;
+  padding-right: 150px;
 }
 
 .money {
