@@ -23,8 +23,8 @@ body {
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
-  row-gap: 45px;
-  column-gap: 45px;
+  gap: 45px;
+  gap: 45px;
   justify-content: center;
   width: 1110px;
   }
@@ -34,8 +34,7 @@ body {
   padding: 25px;
   width: 340px;
   img {
-  width: 290px;
-  }
+    width: 290px;}
 }
 
 .for_what_skin {
@@ -72,16 +71,10 @@ body {
   line-height: 20px;
   margin-bottom: 25px;
 }
+
 .price_card {
   display: flex;
   justify-content: space-between;
-}
-
-.price {
-  font-size: 20px;
-}
-
-.money {
   font-size: 20px;
 }
 
