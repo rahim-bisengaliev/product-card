@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  color: #515076;
+}
+
+.title {
+  font-size: 70px;
+  font-weight: 400px;
+  line-height: 78px;
+  text-align: center;
+}
+
+.products-list {
+  list-style-type: none;
+  padding-left: 25px;
+  }
+
+.card {
+  background: #F7F7FA;
+  padding: 25px ;
+  padding-left: 25px;
+  padding-right: 25px;
+  width: 290px;
+  min-height: 530px;
+}
+
+.for_what_skin {
+  color: #A5A3B9;
+  text-transform: uppercase;
+}
+
+.product_description {
+  line-height: 18px;
+}
+
+.product_name {
+  font-size: 20px;
+}
+
+.compound {
+  line-height: 18px;
+}
+
+.content {
+  line-height: 20px;
+  padding-right: 30px;
+}
+
+.what_vitamins {
+  line-height: 20px;
+}
+
+.content_of_components {
+  line-height: 20px;
+}
+
+.price {
+  font-size: 20px;
+  line-height: 24px;
+  padding-right: 150px;
+}
+
+.money {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.indent {
+  padding-inline-start: 15px;
+}
+
