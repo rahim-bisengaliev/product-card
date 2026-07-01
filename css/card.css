@@ -28,11 +28,11 @@
   display: block;
 }
 
-.card__product_description {
+.card__product-description {
   line-height: 18px;
 }
 
-.card__product_name {
+.card__product-name {
   font-size: 20px;
   margin-bottom: 5px;
   font-weight: 700;
