@@ -12,7 +12,7 @@ const changeColorCardsBtn = document.querySelector('#change-color-cards');
 const changeColorCardsTomato = '#ff6347';
 
 changeColorCardsBtn.addEventListener('click', () => {
-  changeColorCards.forEach((card) => card.style.backgroundColor =  changeColorCardsTomato)
+  changeColorCards.forEach((card) => card.style.backgroundColor =  changeColorCardsTomato);
 });
 
 
@@ -31,11 +31,11 @@ function openGoogle() {
 
 
 const outputConsoleLogBtn = document.querySelector('#output-console-log');
-outputConsoleLogBtn.addEventListener('click', () => outputConsolelog('дз №6'))
+outputConsoleLogBtn.addEventListener('click', () => outputConsolelog('дз №6'));
 
 function outputConsolelog(message) {
-  alert(message)
-  console.log(message)
+  alert(message);
+  console.log(message);
 }
 
 
@@ -49,5 +49,5 @@ title.addEventListener('mouseover', () => {
 const colorChangingButton = document.querySelector('#color-changing-button');
 
 colorChangingButton.addEventListener('click', () => {
-  colorChangingButton.classList.toggle('colorYellow');
+  colorChangingButton.classList.toggle('buttom--yellow');
 });
